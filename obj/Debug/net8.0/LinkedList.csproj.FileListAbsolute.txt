@@ -1,0 +1,14 @@
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\bin\Debug\net8.0\LinkedList.exe
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\bin\Debug\net8.0\LinkedList.dll
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.dll
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+c:\Users\HP\Desktop\BTK-Akademi\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll
